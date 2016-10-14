@@ -6,7 +6,7 @@ El proyecto consiste en calcular  las deflexiones, deformaciones y tensiones en 
 
 # Integrantes del grupo
 
-- Esteban Valencia (JValen86)
+- Esteban Valencia ([JValen86](https://github.com/juanesVS98))
 - Mario Andrés Gaviria
 - Juan Fernando Durango
 
